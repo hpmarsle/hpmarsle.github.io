@@ -1,11 +1,11 @@
 # Site settings
 author: Mars Le
-title: 
+title: Software from Mars 
 header-img: img/home-bg.png
 email: hp.mars.le@gmail.com
 copyright_name: Mars Le
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Journey to software engineering.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  hpmarsle
