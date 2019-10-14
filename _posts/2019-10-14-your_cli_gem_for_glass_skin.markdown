@@ -123,7 +123,7 @@ Overly dry, chapped, flaky skin doesn’t look good on anyone—and it feels eve
 ### The Interface
 See my video demo to see what the final product looks like!
 
-https://youtu.be/q3qaR-ZeP3o
+[https://youtu.be/q3qaR-ZeP3o](http://)
 
 ### Moving Forward
 Since I was pressed for time, I found this to be my best option, and I'll go back and refactor. I really want to add more features. I need to go another level deep and make a Product class that has a relationship with the SkinConcern class and also has a name, brand, and price. If I have even more time to brush up on it, maybe I can figure out how to pull product reviews! This project was very intense! I felt really stuck just getting started. Once I got setup on github thanks to a fellow classmate, I felt working on this was really fun. 
