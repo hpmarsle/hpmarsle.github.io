@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Rails Project - OmniAuth Security Risk "
-date:       2020-03-03 01:51:46 +0000
+date:       2020-03-02 20:51:47 -0500
 permalink:  rails_project_-_omniauth_security_risk
 ---
 
@@ -60,7 +60,6 @@ Hopefully this guide was helpful if you have found yourself in my same predicame
 
 Happy coding!
 
-Best\,\
 Mars
 
 
