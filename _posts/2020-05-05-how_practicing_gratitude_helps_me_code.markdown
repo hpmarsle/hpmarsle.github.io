@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "How Practicing Gratitude Helps Me Code"
-date:       2020-05-05 19:11:41 +0000
+date:       2020-05-05 15:11:42 -0400
 permalink:  how_practicing_gratitude_helps_me_code
 ---
 
@@ -32,11 +32,11 @@ Gratitude helps me remember my WHY. Keep learning, keep creating, keep getting b
 During times of uncertainty with COVID-19, lost jobs, a volatile economy, and fear, I invite you to remind yourself that there is still grace, hope, and always a reason to be grateful. I hope practicing gratitude for where you are now and how far you have to go will help you in your coding practice as well.
 Every single chapter and "failure" we have in life challenges us give up or keep going. Every bug we need to fix, design philosophy, data structure or algorithm we need to learn propels us into growth. Sometimes that little voice tells us we cannot do it or we aren't smart enough. Have gratitude bring you back. Make a practice of writing or saying out loud what you are grateful for. I don't think it's a coincidence that there's a parallel between life itself and learning how to code. The journey is not always lateral. Pivot, take breaks, find another way, and always come back. Do not give up!
 
-Thanks for reading and following along.
+Thanks for reading and following along.  
 
-Happy coding!
+Happy coding!  
 
-Best\,\
+
 Mars
 
 
