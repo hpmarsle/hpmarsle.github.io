@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "A Short Intro to React Hooks"
-date:       2020-07-31 20:34:41 +0000
+date:       2020-07-31 16:34:42 -0400
 permalink:  a_short_intro_to_react_hooks
 ---
 
@@ -26,7 +26,10 @@ You can think of our first destructured variable numOfLikes as "this.state" and 
 When our LikeButton component is rendered, state will be updated everytime a user clicks the button! Very clean and cool! This is just a taste of what hooks can do.
 
 You can read more about the cool features and implementation of what Hooks give us as React developers in the official
-[React Hooks documentaiton](https://reactjs.org/docs/hooks-intro.html).
+[React Hooks documentaiton](https://reactjs.org/docs/hooks-intro.html).  
 
+
+Happy coding!  
+Mars
 
 
